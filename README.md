@@ -8,3 +8,11 @@
 ##### Day -7 : Lambda, Map, Filter, Reduce Functions
 ##### Day -8 : Oops, Class,Objects , Constructors, Self(Pointer/reference)
 ##### Day - 9: Polymorphism, Inheritance, Encapsulation ,Abstraction
+##### Day - 10 : Abstract Class, Decorators , Time Complexity, Class Methods, Delattr, Static method, Init, Property Decorator, setter
+##### Day -11: Files , Json, Csv, Binary ,Buffer ,Logging & Debugging
+##### Day -12:
+##### Day -13:Exception Handling, Custom exception 
+##### Day -14: General use exceptions, Best practices
+##### Day -15: Threading , Sleep , Global Variable
+
+##### Day -16: MultiProcessing , Pool, Queue, Pipe ### Not yet uploaded
