@@ -14,5 +14,18 @@
 ##### Day -13:Exception Handling, Custom exception 
 ##### Day -14: General use exceptions, Best practices
 ##### Day -15: Threading , Sleep , Global Variable
-
-##### Day -16: MultiProcessing , Pool, Queue, Pipe ### Not yet uploaded
+##### Day -16: MultiProcessing , Pool, Queue, Pipe 
+##### Day-17: SQL
+##### Day-18: Mongo
+##### Day-19: Web API
+##### Day-20: Flask
+##### Day-21: Github
+##### Day-22: Web Scraping
+##### Day-23: Image Scraping
+##### Day-24-26: Pandas
+##### Day-27: numpy
+##### Day-28: Matplotlib
+##### Day-29: Seaborne
+##### Day-30: Plotly
+##### Day-31: Bokey
+##### Day-32: Stats
